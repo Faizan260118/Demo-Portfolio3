@@ -1,8 +1,8 @@
-## Personal Portfolio Website 
+## Responsive Portfolio Website Kevin 
 
-#### Technology Used :-
-- HTML<br>
-- CSS<br>
-- JAVASCRIPT<br>
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 For Preview Website [click](https://kevinportfolio-demo.netlify.app/ "kevinportfolio")
