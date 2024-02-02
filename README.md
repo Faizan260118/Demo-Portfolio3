@@ -1,8 +1,8 @@
 ## Personal Portfolio Website 
 
 #### Technology Used :-
--html<br>
--css<br>
--js<br>
+- HTML<br>
+- CSS<br>
+- JAVASCRIPT<br>
 
-For Preview Website (click)[kevinportfolio-demo.netlify.app]
+For Preview Website [click](https://kevinportfolio-demo.netlify.app/ "kevinportfolio")
