@@ -1,4 +1,4 @@
-## Responsive Portfolio Website Kevin 
+# Responsive Portfolio Website Kevin
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
